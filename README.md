@@ -1,6 +1,6 @@
 # git-setup
-  sudo apt update
-  sudo apt install git
+  sudo apt update \n
+  sudo apt install git \n
   git --version
   git config --global user.name "Mehrab Hossain"
   git config --global user.email "dev.mehrabhossain@gmail.com"
